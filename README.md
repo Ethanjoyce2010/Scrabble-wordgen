@@ -44,10 +44,3 @@ Follow the on-screen prompts to select a language and view the highest-scoring w
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for improvements or additional language support.
-
-## License
-This project is licensed under the MIT License.
-
-## Author
-[Your Name] - [Your GitHub Profile]
-
