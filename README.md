@@ -15,16 +15,12 @@ This Python script calculates the maximum possible score for words in Scrabble a
 - Internet connection (for downloading dictionaries)
 
 ## Installation
-Clone the repository and navigate to the project directory:
-```sh
-git clone https://github.com/yourusername/scrabble-score-calculator.git
-cd scrabble-score-calculator
-```
+Download the.py
 
 ## Usage
 Run the script using Python:
 ```sh
-python scrabble_calculator.py
+python scrabble-calculator.py
 ```
 Follow the on-screen prompts to select a language and view the highest-scoring words.
 
