@@ -15,7 +15,11 @@ This Python script calculates the maximum possible score for words in Scrabble a
 - Internet connection (for downloading dictionaries)
 
 ## Installation
-Download the.py
+Download the .py file 
+Run in the downloaded folder 
+```sh
+pip install -r requirements.txt
+```
 
 ## Usage
 Run the script using Python:
